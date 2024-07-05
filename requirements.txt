@@ -1,1 +1,6 @@
 transformers
+flask
+Flask-Cors
+
+# git clone https://github.com/ibm-developer-skills-network/LLM_application_chatbot
+#  pip install -r LLM_application_chatbot/requirements.txt
